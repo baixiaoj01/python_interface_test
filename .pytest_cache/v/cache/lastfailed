@@ -1,0 +1,5 @@
+{
+  "pytest_practice/test_add_logfile.py::test_smtp_exists": true,
+  "pytest_practice/test_class.py::TestClass::()::test_two": true,
+  "pytest_practice/test_tmpdir.py::test_needsfiles": true
+}

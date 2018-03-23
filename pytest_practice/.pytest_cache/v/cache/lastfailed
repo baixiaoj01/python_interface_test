@@ -1,0 +1,6 @@
+{
+  "test_add_logfile.py::test_smtp_exists": true,
+  "test_class.py::TestClass::()::test_two": true,
+  "test_foocompare.py::test_compare": true,
+  "test_tmpdir.py::test_needsfiles": true
+}
